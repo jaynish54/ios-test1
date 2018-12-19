@@ -1,0 +1,25 @@
+{
+  "feeds": [
+    {
+      "id": 1,
+      "title": "CNBC Survey: Millionaires bullish on economy and stock market",
+      "videoUrl": "https://www.youtube.com/watch?v=CV8lvWsImkM",
+      "description": "CNBC's Robert Frank breaks down the results of CNBC's Millionaire Survey to show how and where millionaires are investing ...",
+      "thumbnailUrl": "https://i.ytimg.com/an_webp/CV8lvWsImkM/mqdefault_6s.webp?du=3000&sqp=CMCd6OAF&rs=AOn4CLA4WaZ6LDinrEN3CPSCgEY6hN_yUw"
+    },
+    {
+      "id": 2,
+      "title": "Santelli Exchange: Cash is king",
+      "videoUrl": "https://www.youtube.com/watch?v=4Pw4iAcZ6wc",
+      "description": "CNBC's Robert Frank breaks down",
+      "thumbnailUrl": "https://i.ytimg.com/an_webp/4Pw4iAcZ6wc/mqdefault_6s.webp?du=3000&sqp=CJqu6OAF&rs=AOn4CLDPjyYeKBdQ2MgSvFjKoiHauFV_BA"
+    },
+    {
+      "id": 3,
+      "title": "Cartoon for Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=B9aejOTF0dg",
+      "description": "",
+      "thumbnailUrl": "https://i.ytimg.com/an_webp/B9aejOTF0dg/mqdefault_6s.webp?du=3000&sqp=CLiP6OAF&rs=AOn4CLALZU9IltgS-do1m6FAcMPRk9Dq7g"
+    }
+  ]
+}
