@@ -1,25 +1,63 @@
 {
-  "feeds": [
-    {
-      "id": 1,
-      "title": "CNBC Survey: Millionaires bullish on economy and stock market",
-      "videoUrl": "https://www.youtube.com/watch?v=CV8lvWsImkM",
-      "description": "CNBC's Robert Frank breaks down the results of CNBC's Millionaire Survey to show how and where millionaires are investing ...",
-      "thumbnailUrl": "https://i.ytimg.com/an_webp/CV8lvWsImkM/mqdefault_6s.webp?du=3000&sqp=CMCd6OAF&rs=AOn4CLA4WaZ6LDinrEN3CPSCgEY6hN_yUw"
-    },
-    {
-      "id": 2,
-      "title": "Santelli Exchange: Cash is king",
-      "videoUrl": "https://www.youtube.com/watch?v=4Pw4iAcZ6wc",
-      "description": "CNBC's Robert Frank breaks down",
-      "thumbnailUrl": "https://i.ytimg.com/an_webp/4Pw4iAcZ6wc/mqdefault_6s.webp?du=3000&sqp=CJqu6OAF&rs=AOn4CLDPjyYeKBdQ2MgSvFjKoiHauFV_BA"
-    },
-    {
-      "id": 3,
-      "title": "Cartoon for Kids",
-      "videoUrl": "https://www.youtube.com/watch?v=B9aejOTF0dg",
-      "description": "",
-      "thumbnailUrl": "https://i.ytimg.com/an_webp/B9aejOTF0dg/mqdefault_6s.webp?du=3000&sqp=CLiP6OAF&rs=AOn4CLALZU9IltgS-do1m6FAcMPRk9Dq7g"
-    }
-  ]
+    "feeds": [
+        {
+            "id": 1,
+            "title": "CNBC Survey: Millionaires bullish on economy and stock market",
+            "videoUrl": "https://www.youtube.com/watch?v=CV8lvWsImkM",
+            "description": "CNBC's Robert Frank breaks down the results of CNBC's Millionaire Survey to show how and where millionaires are investing ...",
+            "thumbnailUrl": "https://i.ytimg.com/an_webp/CV8lvWsImkM/mqdefault_6s.webp?du=3000&sqp=CMCd6OAF&rs=AOn4CLA4WaZ6LDinrEN3CPSCgEY6hN_yUw"
+        },
+        {
+            "id": 2,
+            "title": "Santelli Exchange: Cash is king",
+            "videoUrl": "https://www.youtube.com/watch?v=4Pw4iAcZ6wc",
+            "description": "CNBC's Robert Frank breaks down",
+            "thumbnailUrl": "https://i.ytimg.com/an_webp/4Pw4iAcZ6wc/mqdefault_6s.webp?du=3000&sqp=CJqu6OAF&rs=AOn4CLDPjyYeKBdQ2MgSvFjKoiHauFV_BA"
+        },
+        {
+            "id": 3,
+            "title": "Cartoon for Kids",
+            "videoUrl": "https://www.youtube.com/watch?v=B9aejOTF0dg",
+            "description": "",
+            "thumbnailUrl": "https://i.ytimg.com/an_webp/B9aejOTF0dg/mqdefault_6s.webp?du=3000&sqp=CLiP6OAF&rs=AOn4CLALZU9IltgS-do1m6FAcMPRk9Dq7g"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "productName": "Nescafe Classic Coffee, Glass Jar, 100g",
+            "imageUrl": "https://cdn.bmstores.co.uk/images/hpcProductImage/imgFull/299232-Nescafe-Alta-Rica-Coffee-100g1.jpg",
+            "price": "265.00",
+            "currency": "INR",
+            "rating": "4",
+            "description": "Close lid tightly after use, always use a dry spoon, store in a cool, dry and hygienic place."
+        },
+        {
+            "id": 2,
+            "productName": "Dettol Liquid 110ml",
+            "imageUrl": "http://www.onlineprovisions.com/image/cache/data/detergents/dettol%20liquid-800x800.jpg",
+            "price": "212.00",
+            "currency": "INR",
+            "rating": "3",
+            "description": "While soap and water are just fine when it comes to cleaning yourself, different parts of the home or anything else for that matter, these cannot be associated with hygiene. They are not sufficient especially for areas that need special attention to be kept clear of illness causing germs and bacteria at all times. These germs are found everywhere - lingering on surfaces, in our clothes and even on our skin, often exposing us and our kids to harmful bacteria's and illness."
+        },
+        {
+            "id": 3,
+            "productName": "Tata Tea Gold, 500g",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/511HTHS4oGL._SL1000_.jpg",
+            "price": "200.00",
+            "currency": "INR",
+            "rating": "2.5",
+            "description": "Tata Tea Gold is a unique blend of fine Assam tea leaves with special 15%  long leaf"
+        },
+        {
+            "id": 4,
+            "productName": "Nestlé MAGGI 2-minute Instant Noodles, Masala – 420g Pouch",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81K%2BBJ6FUuL._SL1500_.jpg",
+            "price": "90.00",
+            "currency": "INR",
+            "rating": "5",
+            "description": "India’s largest and most loved Noodles brand, Maggi 2-minute Noodles, now comes with the goodness of Iron. Each portion (70g) of Maggi Masala Noodles provides you with 15% of your daily Iron requirement (as per the Daily Dietary Allowances for an Adult Sedentary Male (ICMR 2010))."
+        }
+    ]
 }
