@@ -30,7 +30,8 @@
             "price": "265.00",
             "currency": "INR",
             "rating": "4",
-            "description": "Close lid tightly after use, always use a dry spoon, store in a cool, dry and hygienic place."
+            "description": "Close lid tightly after use, always use a dry spoon, store in a cool, dry and hygienic place.",
+            "types": ["Home", "Office", "Work", "City"] 
         },
         {
             "id": 2,
@@ -39,7 +40,8 @@
             "price": "212.00",
             "currency": "INR",
             "rating": "3",
-            "description": "While soap and water are just fine when it comes to cleaning yourself, different parts of the home or anything else for that matter, these cannot be associated with hygiene. They are not sufficient especially for areas that need special attention to be kept clear of illness causing germs and bacteria at all times. These germs are found everywhere - lingering on surfaces, in our clothes and even on our skin, often exposing us and our kids to harmful bacteria's and illness."
+            "description": "While soap and water are just fine when it comes to cleaning yourself, different parts of the home or anything else for that matter, these cannot be associated with hygiene. They are not sufficient especially for areas that need special attention to be kept clear of illness causing germs and bacteria at all times. These germs are found everywhere - lingering on surfaces, in our clothes and even on our skin, often exposing us and our kids to harmful bacteria's and illness.",
+            "types": ["Home", "Office", "Work", "City"]
         },
         {
             "id": 3,
@@ -48,7 +50,13 @@
             "price": "200.00",
             "currency": "INR",
             "rating": "2.5",
-            "description": "Tata Tea Gold is a unique blend of fine Assam tea leaves with special 15%  long leaf"
+            "description": "Tata Tea Gold is a unique blend of fine Assam tea leaves with special 15%  long leaf",
+            "types": [
+                "Home",
+                "Office",
+                "Work",
+                "City"
+            ],
         },
         {
             "id": 4,
@@ -57,7 +65,13 @@
             "price": "90.00",
             "currency": "INR",
             "rating": "5",
-            "description": "India’s largest and most loved Noodles brand, Maggi 2-minute Noodles, now comes with the goodness of Iron. Each portion (70g) of Maggi Masala Noodles provides you with 15% of your daily Iron requirement (as per the Daily Dietary Allowances for an Adult Sedentary Male (ICMR 2010))."
+            "description": "India’s largest and most loved Noodles brand, Maggi 2-minute Noodles, now comes with the goodness of Iron. Each portion (70g) of Maggi Masala Noodles provides you with 15% of your daily Iron requirement (as per the Daily Dietary Allowances for an Adult Sedentary Male (ICMR 2010)).",
+            "types": [
+                "Home",
+                "Office",
+                "Work",
+                "City"
+            ]
         }
     ]
 }
