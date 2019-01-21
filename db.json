@@ -31,7 +31,7 @@
             "currency": "INR",
             "rating": "4",
             "description": "Close lid tightly after use, always use a dry spoon, store in a cool, dry and hygienic place.",
-            "types": ["Home", "Office", "Work", "City"] 
+            "zipTags": ["Home", "Office", "Work", "City", "State", "Hotel", "Weekend Home", "Site"] 
         },
         {
             "id": 2,
@@ -41,7 +41,16 @@
             "currency": "INR",
             "rating": "3",
             "description": "While soap and water are just fine when it comes to cleaning yourself, different parts of the home or anything else for that matter, these cannot be associated with hygiene. They are not sufficient especially for areas that need special attention to be kept clear of illness causing germs and bacteria at all times. These germs are found everywhere - lingering on surfaces, in our clothes and even on our skin, often exposing us and our kids to harmful bacteria's and illness.",
-            "types": ["Home", "Office", "Work", "City"]
+            "zipTags": [
+                "Home",
+                "Office",
+                "Work",
+                "City",
+                "State",
+                "Hotel",
+                "Weekend Home",
+                "Site"
+            ]
         },
         {
             "id": 3,
@@ -51,11 +60,15 @@
             "currency": "INR",
             "rating": "2.5",
             "description": "Tata Tea Gold is a unique blend of fine Assam tea leaves with special 15%  long leaf",
-            "types": [
+            "zipTags": [
                 "Home",
                 "Office",
                 "Work",
-                "City"
+                "City",
+                "State",
+                "Hotel",
+                "Weekend Home",
+                "Site"
             ]
         },
         {
@@ -66,12 +79,78 @@
             "currency": "INR",
             "rating": "5",
             "description": "India’s largest and most loved Noodles brand, Maggi 2-minute Noodles, now comes with the goodness of Iron. Each portion (70g) of Maggi Masala Noodles provides you with 15% of your daily Iron requirement (as per the Daily Dietary Allowances for an Adult Sedentary Male (ICMR 2010)).",
-            "types": [
-                "Home",
-                "Office",
-                "Work",
-                "City"
-            ]
+            "zipTags": ["Home", "Office", "Work", "City", "State", "Hotel", "Weekend Home", "Site"]
+        },
+        {
+            "id": 5,
+            "productName": "Surf Excel Matic Top Load ",
+            "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/212128_22-surf-excel-matic-top-load-detergent-powder.jpgg",
+            "price": "230.00",
+            "currency": "INR",
+            "description": "Surf excel matic top load the machine specialist laundry detergent",
+            "zipTags": ["Home", "Office", "Work", "City", "State", "Hotel", "Weekend Home", "Site"]
+        },
+        {
+            "id": 6,
+            "productName": "Tide Naturals Washing ",
+            "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40019212_7-tide-naturals-washing-detergent-powder-lemon-chandan.jpg",
+            "price": "212.00",
+            "currency": "INR",
+            "rating": "3",
+            "zipTags": ["Home", "Office", "Work", "City", "State", "Hotel", "Weekend Home", "Site"]
+        },
+        {
+            "id": 7,
+            "productName": "Henko Matic - Front Load ",
+            "price": "200.00",
+            "currency": "INR",
+            "rating": "2.5",
+            "zipTags": ["Home", "Office", "Work", "City", "State", "Hotel", "Weekend Home", "Site"]
+        },
+        {
+            "id": 8,
+            "productName": "Sugar",
+            "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40019396_3-bb-popular-sugar.jpg",
+            "price": "90.00",
+            "currency": "INR",
+            "rating": "5",
+            "zipTags": ["Home", "Office", "Work", "City", "State", "Hotel", "Weekend Home", "Site"]
+        },
+        {
+            "id": 9,
+            "productName": "Aashirvaad Atta - Whole Wheat,",
+            "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/30006887_2-aashirvaad-atta-whole-wheat.jpg",
+            "price": "90.00",
+            "currency": "INR",
+            "rating": "5",
+            "description": "Aashirvaad Whole Wheat Flour is finished from the best accepted ingredients ",
+            "zipTags": ["Home", "Office", "Work", "City", "State", "Hotel", "Weekend Home", "Site"]
+        },
+        {
+            "id": 10,
+            "productName": "Nestlé MAGGI 2-minute Instant Noodles, Masala – 420g Pouch",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81K%2BBJ6FUuL._SL1500_.jpg",
+            "price": "90.00",
+            "currency": "INR",
+            "rating": "5",
+            "zipTags": ["Home", "Office", "Work", "Weekend Home", "Site"]
+        },
+        {
+            "id": 11,
+            "productName": "Nestlé MAGGI 2-minute Instant Noodles, Masala – 420g Pouch",
+            "currency": "INR",
+            "rating": "5",
+            "description": "India’s largest and most loved Noodles brand, Maggi 2-minute Noodles, now comes with the goodness of Iron. Each portion (70g) of Maggi Masala Noodles provides you with 15% of your daily Iron requirement (as per the Daily Dietary Allowances for an Adult Sedentary Male (ICMR 2010)).",
+            "zipTags": ["Home", "State", "Hotel", "Weekend Home", "Site"]
+        },
+        {
+            "id": 12,
+            "productName": "Nestlé MAGGI 2-minute Instant Noodles, Masala – 420g Pouch",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81K%2BBJ6FUuL._SL1500_.jpg",
+            "currency": "INR",
+            "rating": "5",
+            "description": "India’s largest and most loved Noodles brand, Maggi 2-minute Noodles, now comes with the goodness of Iron. Each portion (70g) of Maggi Masala Noodles provides you with 15% of your daily Iron requirement (as per the Daily Dietary Allowances for an Adult Sedentary Male (ICMR 2010)).",
+            "zipTags": ["Home", "Office", "Work", "City", "State", "Hotel", "Weekend Home", "Site"]
         }
-    ]
+    ]   
 }
